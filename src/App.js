@@ -51,8 +51,10 @@ function App() {
   };
 
   return (
-    <div className="container mt-5">
-      <div className="timer_container card p-4">
+    <div className="container mt-5 text-center">
+    <h1>How long has it been?</h1>
+    <p>Enter a date to see how long it has been since then.</p>
+      <div className="timer_container card p-4 mt-3">
         <input
           type="datetime-local"
           className="form-control mb-3"

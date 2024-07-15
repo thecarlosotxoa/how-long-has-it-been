@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/how-long-has-it-been/static/css/main.d0e4170c.css",
+    "main.js": "/how-long-has-it-been/static/js/main.c12d8442.js",
+    "static/js/453.5913b2cf.chunk.js": "/how-long-has-it-been/static/js/453.5913b2cf.chunk.js",
+    "index.html": "/how-long-has-it-been/index.html",
+    "main.d0e4170c.css.map": "/how-long-has-it-been/static/css/main.d0e4170c.css.map",
+    "main.c12d8442.js.map": "/how-long-has-it-been/static/js/main.c12d8442.js.map",
+    "453.5913b2cf.chunk.js.map": "/how-long-has-it-been/static/js/453.5913b2cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e4170c.css",
+    "static/js/main.c12d8442.js"
+  ]
+}
